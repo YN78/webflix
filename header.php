@@ -24,7 +24,7 @@
         <a class="nav-link" href="prof.php"><i class="fas fa-user"></i></a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="#contactid"><i class="fas fa-sign-out-alt"></i></a>
+        <a class="nav-link" href="#contact"><i class="fas fa-sign-out-alt"></i></a>
       </li>
     </ul>
   </div>
