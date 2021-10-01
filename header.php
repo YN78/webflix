@@ -21,7 +21,7 @@
         <a class="nav-link" href="#project-work"><i class="fas fa-search"></i></a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="profile.php"><i class="fas fa-user"></i></a>
+        <a class="nav-link" href="prof.php"><i class="fas fa-user"></i></a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="#contactid"><i class="fas fa-sign-out-alt"></i></a>
