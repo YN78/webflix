@@ -18,7 +18,7 @@
         <a class="nav-link" href="#pricingdiv">Movies</a>
       </li>
        <li class="nav-item">
-        <a class="nav-link" href="#project-work"><i class="fas fa-search"></i></a>
+        <a class="nav-link" href="#project"><i class="fas fa-search"></i></a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="prof.php"><i class="fas fa-user"></i></a>
