@@ -12,7 +12,7 @@
         <a class="nav-link"  href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item ">
-        <a class="nav-link" href="#servicediv">TV Shows</a>
+        <a class="nav-link" href="#TV shows">TV Shows</a>
       </li>
        <li class="nav-item">
         <a class="nav-link" href="#pricingdiv">Movies</a>
